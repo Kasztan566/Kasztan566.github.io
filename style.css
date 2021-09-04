@@ -11,3 +11,6 @@ body {
     background-color: #121212;
     color: white;
   }
+.icn-dark {
+    background-image: url(./dark.png);
+}
