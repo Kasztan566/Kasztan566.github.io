@@ -5,10 +5,9 @@
 body {
     font-family: Roboto;
     padding: 25px;
-    background-color: white;
-    color: black;
+    color: #343a40;
 }
-.dark-mode {
-    background-color: black;
+.dark {
+    background-color: #121212;
     color: white;
   }
