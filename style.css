@@ -17,4 +17,5 @@ body {
     outline: none;
     cursor: pointer;
     right: 10px;
+    position: fixed;
 }
