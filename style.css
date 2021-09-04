@@ -16,6 +16,7 @@ body {
     background-color: transparent;
     outline: none;
     cursor: pointer;
-    right: 10px;
     position: fixed;
+	right: 10px;
+	display: flex;
 }
