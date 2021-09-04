@@ -5,18 +5,10 @@
 body {
     font-family: Roboto;
     padding: 25px;
-    color: #343a40;
-}
-.darkmode {
     background-color: #121212;
     color: white;
 }
-.dark-icn {
-    border: none;
-    background-color: transparent;
-    outline: none;
-    cursor: pointer;
-    position: fixed;
-	right: 10px;
-	display: flex;
+.pos-center {
+    top: 40%;
+    right: 50%;
 }
