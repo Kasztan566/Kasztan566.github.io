@@ -8,6 +8,8 @@ body {
     background-color: #121212;
     color: white;
     font-size: 10;
+	padding: 0;
+	margin: 0;
 }
 .pos-center {
     top: 40%;
@@ -27,7 +29,7 @@ body {
     background-color: #2a9d8f;
 }
 .cls {
-	background-color: white;
+	background-color: #83c5be;
 	height: 40%;
 	width: 100%;
 	position: fixed;
