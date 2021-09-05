@@ -14,3 +14,11 @@ body {
     position: fixed;
 	transform: translate(-50%,-40%);
 }
+.btn-app {
+    background-color: #264653;
+    border-radius: 9px;
+    border: none;
+}
+.btn-app:hover {
+    background-color: #2a9d8f;
+}
