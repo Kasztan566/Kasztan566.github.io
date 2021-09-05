@@ -17,6 +17,7 @@ body {
 	transform: translate(-50%,-40%);
 }
 .btn-app {
+    font-family: Roboto;
     background-color: #264653;
     border-radius: 8px;
     color: white;
