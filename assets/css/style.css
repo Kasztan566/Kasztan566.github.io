@@ -35,3 +35,6 @@ body {
 	position: fixed;
 	bottom: 0;
 }
+a:link {
+    color: white;
+}
