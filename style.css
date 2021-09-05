@@ -26,3 +26,10 @@ body {
 .btn-app:hover {
     background-color: #2a9d8f;
 }
+.cls {
+	background-color: white;
+	height: 40%;
+	width: 100%;
+	position: fixed;
+	bottom: 0;
+}
