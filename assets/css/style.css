@@ -11,7 +11,7 @@ body {
 	margin: 0;
 }
 .pos-center {
-    top: 55%;
+    top: 90%;
     left: 50%;
     position: fixed;
 	transform: translate(-50%,-40%);
