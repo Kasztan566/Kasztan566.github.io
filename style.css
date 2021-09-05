@@ -7,6 +7,7 @@ body {
     padding: 25px;
     background-color: #121212;
     color: white;
+    font-size: 10;
 }
 .pos-center {
     top: 40%;
@@ -17,6 +18,7 @@ body {
 .btn-app {
     background-color: #264653;
     border-radius: 8px;
+    color: white;
     border: none;
     padding: 20px;
     font-size: 16px;
