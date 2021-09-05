@@ -35,10 +35,11 @@ body {
 	position: fixed;
 	bottom: 0;
 }
-a:link a:visited {
+a:link {
     color: white;
     text-decoration: none;
 }
-a:hover {
-    text-decoration: underline;
+a:visited {
+    color: white;
+    text-decoration: none;
 }
