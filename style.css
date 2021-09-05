@@ -16,8 +16,10 @@ body {
 }
 .btn-app {
     background-color: #264653;
-    border-radius: 9px;
+    border-radius: 8px;
     border: none;
+    padding: 20px;
+    font-size: 16px;
 }
 .btn-app:hover {
     background-color: #2a9d8f;
