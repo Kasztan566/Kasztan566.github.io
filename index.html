@@ -5,7 +5,6 @@
     <title>Chatapp</title>
     <link rel="stylesheet" href="style.css">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="javascript" href="script.js">
 </head>
 <body>
     <div class="navbar"></div>
@@ -13,6 +12,9 @@
         <h1>Welcome on Chat app!</h1>
         <h5>First version</h5>
         <button class="btn-app" id="przycisk">Start</button>
+        <script>document.getElementById("przycisk").onclick = function () {
+            location.href = "app.html";
+        };</script>
     </div>
     <div class="cls">
     
