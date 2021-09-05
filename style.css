@@ -27,6 +27,7 @@ body {
 }
 .btn-app:hover {
     background-color: #2a9d8f;
+    cursor: crosshair;
 }
 .cls {
 	background-color: #83c5be;
