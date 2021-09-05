@@ -1,0 +1,16 @@
+@font-face {
+    font-family: Roboto;
+    src: url(./Roboto-Thin.ttf);
+}
+body {
+    font-family: Roboto;
+    padding: 25px;
+    background-color: #121212;
+    color: white;
+}
+.pos-center {
+    top: 40%;
+    left: 50%;
+    position: fixed;
+	transform: translate(-50%,-40%);
+}
